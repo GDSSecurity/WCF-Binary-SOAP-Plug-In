@@ -209,6 +209,7 @@ public static class WcfDictionaryBuilder
         dict.Add("Transforms");
         dict.Add("Transform");
         dict.Add("DigestMethod");
+        dict.Add("DigestValue");
         dict.Add("Address");
         dict.Add("ReplyTo");
         dict.Add("SequenceAcknowledgement");
